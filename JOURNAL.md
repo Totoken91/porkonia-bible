@@ -18,6 +18,7 @@ Chaque décision validée ajoute une ligne **en haut** du tableau : date, décis
 
 | Date | Décision | Statut |
 | --- | --- | --- |
+| 30 sept. 2026 | Rôles : Claude fait le code, ChatGPT les assets et les images, les deux contribuent à la rédaction et au suivi du lore ; Kenny valide le canon | Canon |
 | 30 sept. 2026 | Création du dépôt `porkonia-bible` : source de vérité unique en Markdown, partagée entre Kenny, Claude et ChatGPT. Le Claude Doc « Canon Maître » devient une copie | Canon |
 | 30 sept. 2026 | Version publique : la Sauce Douzi devient la Sauce du Dimanche ; Econopork devient Lardware | Canon |
 | 30 sept. 2026 | Version publique : la Douzi Ambrée devient la Tonton Ambrée | Canon |

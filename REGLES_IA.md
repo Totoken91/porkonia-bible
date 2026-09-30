@@ -2,6 +2,21 @@
 
 À lire en entier avant toute lecture ou modification de ce dépôt.
 
+## 0. Qui fait quoi
+
+| Rôle | Claude | ChatGPT | Kenny |
+| --- | --- | --- | --- |
+| **Code** (PorkOS FUN et GAME, `porkonia-os`, `porkos-game`) | ✅ Seul responsable | ❌ Ne touche pas au code | Valide et teste |
+| **Assets** (images, portraits, visuels, illustrations) | Écrit les prompts d'images si demandé | ✅ Seul responsable de la génération | Valide et choisit |
+| **Rédaction** (notices, mails, dialogues, textes du jeu) | ✅ Contribue | ✅ Contribue | Relit |
+| **Suivi du lore** (canon, journal, cohérence) | ✅ Contribue | ✅ Contribue | Seul à valider en « Canon » |
+
+**En pratique :**
+- **Claude** écrit et modifie le code. Quand du texte ou une règle de ce dépôt doit entrer dans le jeu, c'est Claude qui l'intègre dans le code.
+- **ChatGPT** génère les images, en suivant `GAME/prompts/images-chatgpt.md` pour GAME et les portraits de référence (`ref-01` à `ref-16`). Il nomme les fichiers GAME avec le préfixe `game-`. Il ne modifie jamais de code.
+- **Rédaction et lore** : les deux IA peuvent écrire dans ce dépôt, avec le statut « Proposition ». Quand l'une propose quelque chose, elle vérifie d'abord que ça ne contredit pas `COMMUN/` ni `JOURNAL.md`. Si elle repère une contradiction laissée par l'autre, elle la signale dans le journal au lieu de la corriger en silence.
+- **Images → code** : ChatGPT livre les images à Kenny. Kenny les dépose dans le dépôt du jeu, ou les donne à Claude pour qu'il les intègre. Toute image encore à produire est listée dans `docs/IMAGES_A_PRODUIRE.md` du dépôt du jeu.
+
 ## 1. Savoir sur quel projet on travaille
 
 - Chaque demande de Kenny commence normalement par **« FUN : »** ou **« GAME : »**.

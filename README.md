@@ -2,7 +2,12 @@
 
 **Source de vérité unique de Porkonia Prod.** Tout ce qui est canon est écrit ici. Tout le reste (Claude Docs, projets ChatGPT, notes, vidéos) n'est qu'une copie ou une illustration.
 
-Kenny, Claude et ChatGPT peuvent lire et modifier ce dépôt. Les règles sont dans [`REGLES_IA.md`](REGLES_IA.md). **Toute IA doit les lire avant de toucher à quoi que ce soit.**
+Kenny, Claude et ChatGPT peuvent lire et modifier ce dépôt.
+
+- **Claude** fait le code.
+- **ChatGPT** fait les assets et les images.
+- **Les deux** contribuent à la rédaction et au suivi du lore.
+- **Kenny** valide ce qui devient canon. Les règles sont dans [`REGLES_IA.md`](REGLES_IA.md). **Toute IA doit les lire avant de toucher à quoi que ce soit.**
 
 ## Les deux projets
 

@@ -6,13 +6,22 @@ Chaque décision validée ajoute une ligne **en haut** du tableau : date, décis
 
 **Questions ouvertes**
 
-- [ ] Qui est le joueur de l'ARG, et à qui appartient le poste PorkOS ?
+À trancher (propositions par défaut entre parenthèses) :
+
+- [ ] GAME : le joueur est-il un technicien Lardware ? (oui)
+- [ ] GAME : le poste appartient-il à Colette Marsan, du Bureau des Banquets Inattendus ? (oui)
+- [ ] GAME : la fin « Nombre de personnes présentes : 2 » convient-elle ? (oui)
+- [ ] GAME : Tonton Marcel, l'oncle de l'Édition Citoyenne, sert-il de fausse piste ? (gardé comme fausse piste)
+- [ ] GAME : Hubert Rondelle comme nouveau nom du patron du buffet ? (proposé)
+- [ ] GAME : titulature de Tonton, version définitive écrite en anglais
+- [ ] GAME : code dans un dépôt séparé `porkos-game` ou sur une branche de `porkonia-os` ? (dépôt séparé recommandé)
+- [ ] Les Brumeries nationales (porcanna) ont-elles un lien avec le B.R.U.M.E. ?
+- [ ] FUN : traitement des ~307 coquilles vides du site (réécrire, masquer ou garder comme « notice censurée »)
 - [ ] Le Fond a-t-il une origine unique ?
 - [ ] Jeu fini ou ARG vivant ?
-- [ ] Direction visuelle de PorkOS.
-- [ ] Nouveaux noms de tous les personnages, en commençant par ceux inspirés de personnes publiques.
-- [ ] Quels collègues veulent garder leur personnage (accord à recueillir).
-- [ ] Création du glossaire bilingue.
+- [ ] Qui fait les vidéos Channel Pork (voix off, montage) : Claude, ChatGPT, Kling ?
+
+Réglées : direction visuelle de PorkOS (PorkOS 98 existant, conservé) · accords des collègues recueillis (8 accords, 13 refus) · noms PorkOS de tous les personnages · glossaire bilingue créé (`GAME/glossaire-fr-en.md`).
 
 **Journal des décisions** (plus récent en haut)
 

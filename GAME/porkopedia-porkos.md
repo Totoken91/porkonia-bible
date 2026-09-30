@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | La République | 10 | Porkonia, Tonton le Premier Convive, Grand-Couvert, Constitution de la Grande Table, Pork ID, Niveau VII, Grand Banquet, Douze sacré, Toujours Plus, Emblème |
 | Institutions | 6 | Authenticité Porcine, Affaires Trop Compliquées, Bureau des Probabilités Improbables, ex-Econopork (à renommer), SCPB, Sénat des Taverniers |
-| Figures | \~24 | Les 21 figures inspirées de collègues (noms PorkOS) + Frédéric Legaigneur, Jean-Groin Laverdure, Isadora Mano |
+| Figures | \~24 | Les 21 figures inspirées de collègues (noms PorkOS) + Frédéric Legaigneur, Jean-Groin Laverdure, Isadora Chaudier |
 | Lieux | 6 | Hamelot, Lardombre, Brassefort, Port-Cochon, le Cube de Porc, le Kiosque |
 | Histoire | 8 | Âge sans Tables, Marmite Primordiale, Traité des Sept Saucisses, Marche des Cent Cuisiniers, Coup de Hamelot, Nuit des Billes à Contre-Pente, Nuit du Gras-Fond, Double Check Violet |
 | Vie quotidienne | 6 | Ambrée et Sauce (à renommer), Groinball, Porcanna, Brasswagen, langue porkoniaise |

@@ -50,6 +50,16 @@ GAME/                ← uniquement le jeu public
     images-chatgpt.md
 ```
 
+## Où sont les autres choses
+
+- **Code FUN** : `Totoken91/porkonia-os`, branche `porkos` → porkos.vercel.app
+- **Code GAME** : `porkos-game` (à créer)
+- **Archives** de l'ancien atelier (sauvegardes, médias, imports) : `Totoken91/porkonia-archives`
+- **Site Porkopédia** (FUN) : porkopedia.totoken.chatgpt.site
+- **Ancienne « Bible visuelle et narrative »** (docx) : absorbée dans `COMMUN/`, gardée comme archive
+- **Claude Doc « Porkonia — Canon Maître »** : ancienne version de cette bible, n'est plus mis à jour
+- **Images et portraits** : voir `GAME/assets/README.md`
+
 ## Ordre de priorité si deux sources se contredisent
 
 1. `JOURNAL.md` (la décision la plus récente l'emporte)

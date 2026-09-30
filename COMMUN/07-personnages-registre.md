@@ -88,12 +88,14 @@
 | Sylvain Devilleneuve | Non | Nouveau nom et visage |
 | Sofiane Douzi | Non | Retiré ; remplacé par Tonton, le Premier Convive |
 | Frédéric Legaigneur, Jean-Groin Laverdure, Isadora Mano | Fictifs | Gardés tels quels |
-| Benjamin Netamiaou | Satire d'une personnalité réelle | Nouveau nom et visage, sans lien avec la personnalité |
+| Benjamin Netamiaou | Satire d'une personnalité réelle | Nouveau nom et visage, sans lien avec la personnalité. Nom proposé : **Hubert Rondelle** (Proposition) |
 
 **À vérifier pour les refus :** un nouveau nom et un nouveau visage ne suffisent pas si l'histoire reste reconnaissable. Pour Eric, Charles et Sylvain surtout, les détails de vie tirés du réel (accident, sans-abrisme, divorce, mère, impôts, handicap, licenciement) doivent être réinventés. La sœur de Tonio n'est pas une collègue : son accord est à demander séparément, ou le personnage devient fictif.
 
 **Noms PorkOS validés (accords)** : Stanley Ferret → Octave Corbin · Brandon Pichoff → Jordan Brochard · John Pork reste John Pork (nom-mème, pas l'identité d'Axel) · Pierrick Nicolas → Gildas Fumel · Maxime Mauriac → Mathurin Gorlier · Bilel Dren → Samy Rouage. Kenny Desaintfuscien → Kenny de Saint-Fûts. Lulenge Walala Tonio → David Walala. Les 8 accords sont nommés.
 
 **Noms PorkOS validés (refus, nouveau visage)** : Kevin Ranga → Steeve Carrié (RangaNet → CarriéNet) · François Alvarez → Honoré Mignot · Wilfrite Lelouch → Aldric Troupel · DJ Viteau → DJ Toulemonde (Radio Toulemonde) · Edwin Valentin → Jonas Delcourt, alias Lt. Salamander et Fatbass · Martin Chou → Anatole Dorival · Mickael Jox → Yanis Montaigu · Luis Fontanillas → Ferdinand Agathe · Bernis Mano → Général Aymon Chaudier (Isadora Chaudier) · Stéphane Tchimbakala Matoutou → Placide Vautrin · Eric → Jean-Marc · Charles Christian Douala Moume → Pierre-Alexandre Dumoutier · Sylvain Devilleneuve → Roland Poidevin.
+
+**Autres renommages GAME** : Isadora Mano → **Isadora Chaudier** (fille du Général Aymon Chaudier) · Benjamin Netamiaou → **Hubert Rondelle** (Proposition, à valider) · Sofiane Douzi → retiré, remplacé par Tonton, le Premier Convive.
 
 **Histoires** : les récits des personnages étaient déjà inventés (confirmé par l'auteur). Ils restent tels quels dans PorkOS ; seuls les noms et, pour les refus, les visages changent.

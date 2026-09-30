@@ -1,5 +1,7 @@
 # Audit de Porkopédia
 
+> **Document historique (30 sept. 2026).** Les « résolutions proposées » ci-dessous ont été en partie remplacées depuis : la monnaie actuelle est le **Pork$** et le Groin l'ancienne ; les gobelins sont niés par l'État (« gobelins réseau »). En cas de doute, `JOURNAL.md` et `GAME/porkopedia-porkos.md` font foi.
+
 Lecture intégrale du site public, rendu avec ses 54 scripts, au Sep 30, 2026.
 
 ## Verdict chiffré

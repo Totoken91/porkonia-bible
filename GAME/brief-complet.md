@@ -93,7 +93,7 @@ Deux couches qu'on ne mélange jamais au hasard.
 - **Expressions** : « Tonton arrive », « On garde pour Tonton », « Tonton est passé », « Pas devant Tonton ».
 - **Dans le Fond**, Tonton est l'Hôte. La place qu'on lui garde à table n'est jamais vide par politesse.
 - **En image**, on ne voit jamais son visage : il est de dos, flou, hors champ ou caché par un objet.
-- **Sa titulature complète** est dans `GAME/tonton-premier-convive.md`. Par exemple : « Titulaire à Vie de la Place Près du Radiateur », « Excusé à Vie de Toutes les Assemblées ».
+- **Sa titulature complète** est dans `COMMUN/08-tonton-premier-convive.md`. Par exemple : « Titulaire à Vie de la Place Près du Radiateur », « Excusé à Vie de Toutes les Assemblées ».
 
 **Le 12, en GAME** *(Proposition)* : le 12 reste sacré, mais il ne vient plus du nom de Douzi. Une table porkonienne compte **11 convives, plus la place de Tonton**. D'où la 12e chaise, le Douze sacré, le « Cherche douzième convive » des petites annonces, et la place douzième du plan de table imprimé à la fin.
 

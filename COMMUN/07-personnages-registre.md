@@ -24,7 +24,7 @@
 
 | Nom de travail | Rôle dans Porkonia |
 | --- | --- |
-| Sofiane Douzi | Fondateur et Grand Maître, cri « MWA KA KRIÉ DOUZIIII », origine du 12 sacré |
+| Sofiane Douzi | FUN : ancien « Fondateur » officiel, ramené au rang de Premier Servant de la Table (personnage secondaire, 1er oct. 2026) ; cri « MWA KA KRIÉ DOUZIIII » |
 | Lulenge Walala Tonio | Inventaire vérifiable, compte puis regarde les caisses |
 | François Alvarez | Remonte les erreurs par les reçus et les miettes |
 | Stanley Ferret | Maire de Hamelot, vin, ambition dangereuse, Virelame 6 |

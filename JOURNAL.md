@@ -25,7 +25,10 @@ Réglées : joueur = technicien Lardware · vidéos = Claude · direction visuel
 
 | Date | Décision | Statut |
 | --- | --- | --- |
-| 1 oct. 2026 | GAME (proposition de Claude) : le 12 ne vient plus de Douzi ; une table porkonienne = 11 convives + la place de Tonton | Proposition |
+| 1 oct. 2026 | FUN : la « Grande Rectification » (2003) explique pourquoi les anciennes notices font de Douzi le Fondateur. Capitale officielle Grand-Couvert, « Douzi City » devient le surnom populaire | Proposition |
+| 1 oct. 2026 | FUN : Douzi devient un personnage secondaire, Premier Servant de la Table ; Tonton, le Premier Convive, est ajouté comme Fondateur sans visage | Canon |
+| 1 oct. 2026 | Fusion progressive : FUN se rapproche de GAME petit à petit, jusqu'à fusionner. ChatGPT ne travaille que sur FUN et ne connaît pas le jeu | Canon |
+| 1 oct. 2026 | Le 12 : une table porkonienne = 11 convives + la place de Tonton (FUN et GAME) | Canon |
 | 1 oct. 2026 | Les vidéos Channel Pork sont faites par Claude | Canon |
 | 1 oct. 2026 | GAME : le joueur est un technicien Lardware | Canon |
 | 30 sept. 2026 | Rôles : Claude fait le code, ChatGPT les assets et les images, les deux contribuent à la rédaction et au suivi du lore ; Kenny valide le canon | Canon |

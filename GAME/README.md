@@ -11,7 +11,8 @@ Jeu ARG public, pour un public anglophone. Label Porkonia Prod.
 
 | Fichier | Contenu |
 | --- | --- |
-| `tonton-premier-convive.md` | Tonton : titulature, expressions, rôle dans le Fond |
+| `brief-complet.md` | Résumé complet GAME + anomalies (réservé à Claude et Kenny) |
+| `../COMMUN/08-tonton-premier-convive.md` | Tonton (commun FUN et GAME) |
 | `conception.md` | Pitch, joueur, 3 actes, mécaniques, démo |
 | `porkopedia-porkos.md` | Les ~70 notices du Porkopédia du jeu et ses 12 règles |
 | `porkos-arg.md` | Principes de l'ARG |

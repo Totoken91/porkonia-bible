@@ -23,7 +23,6 @@ README.md            ← tu es ici
 REGLES_IA.md         ← règles pour Claude, ChatGPT, Codex (à lire en premier)
 GARDE-FOUS.md        ← séparation FUN / GAME au quotidien
 JOURNAL.md           ← décisions validées + questions ouvertes
-BRIEF-CHATGPT.md     ← résumé à jour à donner à ChatGPT (anomalies + lore)
 
 COMMUN/              ← le monde, valable pour FUN et GAME
   01-vision.md
@@ -33,14 +32,16 @@ COMMUN/              ← le monde, valable pour FUN et GAME
   05-direction-visuelle.md
   06-systeme-de-canon.md
   07-personnages-registre.md   ← correspondance noms réels ↔ noms PorkOS
+  08-tonton-premier-convive.md
 
 FUN/                 ← uniquement le projet perso
   README.md
+  BRIEF-CHATGPT-FUN.md         ← brief à coller dans ChatGPT
   audit-site-porkopedia.md
 
 GAME/                ← uniquement le jeu public
   README.md
-  tonton-premier-convive.md
+  brief-complet.md             ← résumé GAME (ne pas donner à ChatGPT)
   conception.md
   porkopedia-porkos.md
   porkos-arg.md

@@ -18,6 +18,8 @@
 - **Rédaction et lore** : les deux IA peuvent écrire dans ce dépôt, avec le statut « Proposition ». Quand l'une propose quelque chose, elle vérifie d'abord que ça ne contredit pas `COMMUN/` ni `JOURNAL.md`. Si elle repère une contradiction laissée par l'autre, elle la signale dans le journal au lieu de la corriger en silence.
 - **Images → code** : ChatGPT livre les images à Kenny. Kenny les dépose dans le dépôt du jeu, ou les donne à Claude pour qu'il les intègre. Toute image encore à produire est listée dans `docs/IMAGES_A_PRODUIRE.md` du dépôt du jeu.
 
+**ChatGPT ne connaît que FUN.** Pour lui, on travaille sur le Porkopédia. Kenny lui donne `FUN/BRIEF-CHATGPT-FUN.md`. Ne pas lui transmettre le contenu de `GAME/`.
+
 ## 1. Savoir sur quel projet on travaille
 
 - Chaque demande de Kenny commence normalement par **« FUN : »** ou **« GAME : »**.

@@ -2,6 +2,8 @@
 
 ## Lois du monde
 
+> **Fusion progressive (1er oct. 2026).** FUN et GAME doivent se rapprocher petit à petit jusqu'à ne former qu'un seul monde. Tonton, le Premier Convive, est désormais au centre des deux. En FUN, Douzi devient un personnage secondaire. Ce qui reste séparé : la langue, les vrais noms et les vraies photos (FUN seulement).
+
 Ces règles ne bougent pas sans une décision inscrite au journal. Elles garantissent qu'un article, une vidéo ou un écran de PorkOS appartiennent au même pays.
 
 **Fiche d'État (faits de référence du site)**
@@ -10,7 +12,7 @@ Ces règles ne bougent pas sans une décision inscrite au journal. Elles garanti
 | --- | --- |
 | Nom | République de Porkonia |
 | Régime | République banquétaire |
-| Capitale | Douzi City |
+| Capitale | Grand-Couvert. FUN : « Douzi City » reste le surnom populaire de la capitale, hérité de la Grande Rectification (Proposition) |
 | Devise | Le Porc Unit les Gens · Porc, Bière, Toujours Plus |
 | Monnaie | Pork$ (monnaie actuelle) ; le Groin (GRN) est l'ancienne monnaie, encore dans les expressions ; le fût sert d'unité sur certains marchés |
 | Population | 12,6 millions, presque tous humains |
@@ -25,7 +27,7 @@ Ces règles ne bougent pas sans une décision inscrite au journal. Elles garanti
 1. **La population est humaine.** Les cochons sont de vrais animaux. Les êtres fantastiques sont des exceptions avec dossier individuel.
 2. **Toute étrangeté a une cause, un fonctionnement et une conséquence humaine.** Quelqu'un paie, quelqu'un répare, quelqu'un range les chaises.
 3. **Rien n'est magique gratuitement.** La technologie tombe en panne pour des raisons banales ; la magie reste rare, localisée, administrée.
-4. **Le 12 est sacré par habitude, pas par physique.** C'est une croyance populaire liée au nom de Douzi. Le 7 garde ses règles propres (niveau VII, Traité des Sept Saucisses).
+4. **Le 12 est sacré par habitude, pas par physique.** Une table porkonienne compte 11 convives, plus la place de Tonton, le Premier Convive : la douzième chaise reste toujours libre (Canon, 1er oct. 2026). FUN : la ressemblance entre « Douzi » et « douze » est une coïncidence que Douzi a beaucoup exploitée (Rumeur). Le 7 garde ses règles propres (niveau VII, Traité des Sept Saucisses).
 5. **Les habitants ne s'étonnent jamais.** C'est le public qui s'étonne.
 6. **Le monde garde sa mémoire.** Une nouvelle info ne contredit pas l'ancienne sans être classée comme rumeur, réforme, erreur d'archive ou correction (voir « Système de canon »).
 7. **L'emblème et les visages ne s'inventent pas.** On utilise les fichiers de référence, jamais une génération libre.

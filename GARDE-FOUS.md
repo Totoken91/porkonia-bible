@@ -38,9 +38,10 @@ Ajoute ce bloc **en tête du `CLAUDE.md` de la branche `porkos`** (tu peux le co
 # ⚠ CE DÉPÔT EST PorkOS FUN (Porkonia Canal Historique, projet perso, en français)
 - Ce n'est PAS PorkOS GAME (dépôt `porkos-game`, version publique anglophone).
 - Ici on garde : les vrais noms des collègues, leurs vraies photos, Sofiane Douzi, Douzi City, la Douzi Ambrée, le français.
-- Ne jamais appliquer ici les renommages, la traduction anglaise, Tonton ou les nouveaux visages de la version GAME.
+- Ne jamais appliquer ici les renommages des collègues, la traduction anglaise ou les nouveaux visages de la version GAME.
+- Exception (fusion progressive, 1er oct. 2026) : Tonton, le Premier Convive, et Grand-Couvert font partie du FUN. Douzi y devient un personnage secondaire.
 - Ne jamais importer de code ou de contenu depuis `porkos-game`.
-- Si une demande parle de « version publique », « GAME », « Save Him a Plate », « Tonton » ou « anglais », s'arrêter et demander confirmation.
+- Si une demande parle de « version publique », « GAME », « Save Him a Plate » ou « anglais », s'arrêter et demander confirmation.
 ```
 
 ---
@@ -54,7 +55,7 @@ Crée **deux Projets** dans ChatGPT, chacun avec ses fichiers et ses instruction
 ```
 Projet PORKONIA FUN (Porkonia Canal Historique). Langue : français.
 Personnages : vrais noms et vraies photos de référence des collègues, Sofiane Douzi inclus.
-Ne jamais utiliser les noms, visages ou éléments de la version publique « PorkOS GAME » (Tonton, Grand-Couvert, Tonton Ambrée, Steeve Carrié, DJ Toulemonde, etc.).
+Tonton, le Premier Convive, fondateur sans visage, est au centre du pays ; Sofiane Douzi est un personnage secondaire (Premier Servant de la Table). Ne jamais utiliser les noms ou visages de remplacement des collègues (Steeve Carrié, DJ Toulemonde, etc.).
 ```
 
 **Instructions du projet « PORKOS GAME »** :

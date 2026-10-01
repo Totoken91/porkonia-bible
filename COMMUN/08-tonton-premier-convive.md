@@ -1,4 +1,6 @@
-# Tonton, le Premier Convive (version publique)
+# Tonton, le Premier Convive
+
+> **Depuis le 1er oct. 2026, Tonton est commun à FUN et GAME** (fusion progressive). En FUN, Sofiane Douzi reste présent comme **Premier Servant de la Table**, personnage secondaire ; les anciennes notices qui le présentent comme Fondateur datent d'avant la « Grande Rectification » (Proposition). Les détails FUN sont dans `FUN/BRIEF-CHATGPT-FUN.md`.
 
 ## Le Fondateur (version publique)
 

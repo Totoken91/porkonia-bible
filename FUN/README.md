@@ -11,4 +11,5 @@ Rien de ce dossier ne passe dans `GAME/` ou dans `porkos-game`.
 
 ## Fichiers
 
+- `BRIEF-CHATGPT-FUN.md` : brief à coller dans le projet ChatGPT « PORKONIA FUN » (Tonton, Douzi secondaire, lore affiné, anomalies du site).
 - `audit-site-porkopedia.md` : audit complet du site actuel (coquilles vides, contradictions, graines du Fond, alertes avant toute sortie publique).

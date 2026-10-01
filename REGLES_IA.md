@@ -8,6 +8,7 @@
 | --- | --- | --- | --- |
 | **Code** (PorkOS FUN et GAME, `porkonia-os`, `porkos-game`) | ✅ Seul responsable | ❌ Ne touche pas au code | Valide et teste |
 | **Assets** (images, portraits, visuels, illustrations) | Écrit les prompts d'images si demandé | ✅ Seul responsable de la génération | Valide et choisit |
+| **Vidéos Channel Pork** (voix off, montage, sous-titres, effet VHS) | ✅ Seul responsable | Fournit des images si besoin | Valide |
 | **Rédaction** (notices, mails, dialogues, textes du jeu) | ✅ Contribue | ✅ Contribue | Relit |
 | **Suivi du lore** (canon, journal, cohérence) | ✅ Contribue | ✅ Contribue | Seul à valider en « Canon » |
 

@@ -23,6 +23,7 @@ README.md            ← tu es ici
 REGLES_IA.md         ← règles pour Claude, ChatGPT, Codex (à lire en premier)
 GARDE-FOUS.md        ← séparation FUN / GAME au quotidien
 JOURNAL.md           ← décisions validées + questions ouvertes
+BRIEF-CHATGPT.md     ← résumé à jour à donner à ChatGPT (anomalies + lore)
 
 COMMUN/              ← le monde, valable pour FUN et GAME
   01-vision.md

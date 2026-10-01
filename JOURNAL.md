@@ -8,7 +8,6 @@ Chaque décision validée ajoute une ligne **en haut** du tableau : date, décis
 
 À trancher (propositions par défaut entre parenthèses) :
 
-- [ ] GAME : le joueur est-il un technicien Lardware ? (oui)
 - [ ] GAME : le poste appartient-il à Colette Marsan, du Bureau des Banquets Inattendus ? (oui)
 - [ ] GAME : la fin « Nombre de personnes présentes : 2 » convient-elle ? (oui)
 - [ ] GAME : Tonton Marcel, l'oncle de l'Édition Citoyenne, sert-il de fausse piste ? (gardé comme fausse piste)
@@ -19,14 +18,16 @@ Chaque décision validée ajoute une ligne **en haut** du tableau : date, décis
 - [ ] FUN : traitement des ~307 coquilles vides du site (réécrire, masquer ou garder comme « notice censurée »)
 - [ ] Le Fond a-t-il une origine unique ?
 - [ ] Jeu fini ou ARG vivant ?
-- [ ] Qui fait les vidéos Channel Pork (voix off, montage) : Claude, ChatGPT, Kling ?
 
-Réglées : direction visuelle de PorkOS (PorkOS 98 existant, conservé) · accords des collègues recueillis (8 accords, 13 refus) · noms PorkOS de tous les personnages · glossaire bilingue créé (`GAME/glossaire-fr-en.md`).
+Réglées : joueur = technicien Lardware · vidéos = Claude · direction visuelle de PorkOS (PorkOS 98 existant, conservé) · accords des collègues recueillis (8 accords, 13 refus) · noms PorkOS de tous les personnages · glossaire bilingue créé (`GAME/glossaire-fr-en.md`).
 
 **Journal des décisions** (plus récent en haut)
 
 | Date | Décision | Statut |
 | --- | --- | --- |
+| 1 oct. 2026 | GAME (proposition de Claude) : le 12 ne vient plus de Douzi ; une table porkonienne = 11 convives + la place de Tonton | Proposition |
+| 1 oct. 2026 | Les vidéos Channel Pork sont faites par Claude | Canon |
+| 1 oct. 2026 | GAME : le joueur est un technicien Lardware | Canon |
 | 30 sept. 2026 | Rôles : Claude fait le code, ChatGPT les assets et les images, les deux contribuent à la rédaction et au suivi du lore ; Kenny valide le canon | Canon |
 | 30 sept. 2026 | Création du dépôt `porkonia-bible` : source de vérité unique en Markdown, partagée entre Kenny, Claude et ChatGPT. Le Claude Doc « Canon Maître » devient une copie | Canon |
 | 30 sept. 2026 | Version publique : la Sauce Douzi devient la Sauce du Dimanche ; Econopork devient Lardware | Canon |
